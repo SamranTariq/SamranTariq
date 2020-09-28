@@ -1,6 +1,6 @@
 ### Hi there I'm Samran Tariq 👋
 
-## I'm a Developer !
+## I'm a Android/Django Developer !
 
 - 🔭 I’m currently working as a freelancer on Fiverr!
 - 🌱 I’m currently learning Advanced JavaScript
@@ -8,8 +8,8 @@
 - 🥅 2020 Goals: Find a suitable job and start explore things.
 - ⚡ Fun fact: I love to 🏋🏻workout and 🧗Traveling stuff.
 
-### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+### BandCamp Playing 🎧
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://bandcamp.com/)
 
 ### Connect with me:
 
