@@ -8,8 +8,7 @@
 - 🥅 2020 Goals: Find a suitable job and start explore things.
 - ⚡ Fun fact: I love to 🏋🏻workout and 🧗Traveling stuff.
 
-**Recent Favourite 🎼**
-### Soundcloud Playing 🎧
+### Recent  Soundcloud Favourite - Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://soundcloud.com/nguyen-lam-41616107/shakira-try-everything-zootopia-nightcore)
 
 ### Connect with me:
