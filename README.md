@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working as a freelancer on Fiverr!
 - 🌱 I’m currently learning Advanced JavaScript
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other developers 
 - 🥅 2020 Goals: Find a suitable job and start explore things.
 - ⚡ Fun fact: I love to 🏋🏻workout and 🧗Traveling stuff.
 
