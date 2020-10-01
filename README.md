@@ -10,13 +10,9 @@
 
 
 ## Projects
-[<img align="left" alt="LinkedIn" width="22px" src="https://user-images.githubusercontent.com/50068566/94854531-7ad60400-0446-11eb-9d29-e2a80ea84591.png">Final Year Project</img>](https://github.com/SamranTariq/Final_Year_Project)
+[<img align="left" alt="LinkedIn" width="152px" src="https://user-images.githubusercontent.com/50068566/94857300-b8d52700-044a-11eb-83cf-7e4efb4b05ba.png"></img>](https://github.com/SamranTariq/Final_Year_Project)<
 
------
-[<img align="left" alt="LinkedIn" width="22px" src="https://user-images.githubusercontent.com/50068566/94854135-e075c080-0445-11eb-9cab-edb1630798e8.png">WhatsBook Downloader</img>](https://github.com/SamranTariq/Whatsapp_Facebook_VideoSaver)
-
------
-
+<br>
 
 
 ### Connect with me:
