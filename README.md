@@ -8,6 +8,17 @@
 - 🥅 2020 Goals: Find a suitable job and start explore things.
 - ⚡ Fun fact: I love to 🏋🏻workout and 🧗Traveling stuff.
 
+
+## Projects
+[<img align="left" alt="LinkedIn" width="22px" src="https://user-images.githubusercontent.com/50068566/94854531-7ad60400-0446-11eb-9d29-e2a80ea84591.png">Final Year Project</img>](https://github.com/SamranTariq/Final_Year_Project)
+
+-----
+[<img align="left" alt="LinkedIn" width="22px" src="https://user-images.githubusercontent.com/50068566/94854135-e075c080-0445-11eb-9cab-edb1630798e8.png">WhatsBook Downloader</img>](https://github.com/SamranTariq/Whatsapp_Facebook_VideoSaver)
+
+-----
+
+
+
 ### Connect with me:
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/samran-tariq/)
