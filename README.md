@@ -11,7 +11,7 @@
 
 ### Projects
 [<img align="left" alt="LinkedIn" width="252px" src="https://user-images.githubusercontent.com/50068566/94857300-b8d52700-044a-11eb-83cf-7e4efb4b05ba.png"></img>](https://github.com/SamranTariq/Final_Year_Project)
-[<img align="left" alt="LinkedIn" width="252px" src="https://user-images.githubusercontent.com/50068566/94859126-7eb95480-044d-11eb-80d4-62a23b4a7699.png"></img>](https://github.com/SamranTariq/Whatsapp_Facebook_VideoSaver)<br><br><br><br><br><br><br>
+[<img align="left" alt="LinkedIn" width="252px" src="https://user-images.githubusercontent.com/50068566/94859126-7eb95480-044d-11eb-80d4-62a23b4a7699.png"></img>](https://github.com/SamranTariq/Whatsapp_Facebook_VideoSaver)
 ### Connect with me:
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/samran-tariq/)
