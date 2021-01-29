@@ -1,6 +1,6 @@
 ### Hi there I'm Samran Tariq 👋
 
-## I'm a Android/Django Developer !
+## I'm a Full Stack Developer !
 
 - 🔭 I’m currently working as a freelancer on Fiverr!
 - 🌱 I’m currently learning Advanced JavaScript
