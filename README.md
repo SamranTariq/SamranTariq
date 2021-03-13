@@ -3,9 +3,9 @@
 ## I'm a Full Stack Developer !
 
 - 🔭 I’m currently working as a freelancer on Fiverr!
-- 🌱 I’m currently learning Advanced JavaScript
+- 🌱 I’m currently learning Advanced TypeScript
 - 👯 I’m looking to collaborate with other developers 
-- 🥅 2020 Goals: Find a suitable job and start explore things.
+- 🥅 2021 Goals: Explore new things.
 - ⚡ Fun fact: I love to 🏋🏻workout and 🧗Traveling stuff.
 
 ### Projects
