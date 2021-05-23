@@ -2,7 +2,8 @@
 
 ## I'm a Full Stack Developer !
 
-- 🔭 Working as a freelancer and in Swaam Tech Lahore Pakistan!
+- 🔭 Working as a Rect Js Developer on freelancing sites
+- 🔭 Working as a Full Stack Developer in Swaam Tech Lahore
 - 🌱 Follwing Advanced TypeScript
 - 👯 I’m looking to collaborate with other developers 
 - 🥅 2021 Goals: Explore AWS.
