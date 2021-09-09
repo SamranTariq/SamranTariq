@@ -2,12 +2,13 @@
 
 ## I'm a Full Stack Developer !
 
-- 🔭 Working as a Rect Js Developer on freelancing sites
+- 🔭 Working as a MERN Stack on freelancing sites
 - 🔭 Working as a Full Stack Developer in Swaam Tech Lahore
+- 🎨 New Skill : Vue Js
 - 🌱 Follwing Advanced TypeScript
 - 👯 I’m looking to collaborate with other developers 
 - 🥅 2021 Goals: Explore AWS.
-- ⚡ Fun fact: I love to 🏋🏻workout and 🧗Traveling stuff.
+- ⚡  Fun fact: I love to 🏋🏻workout and 🧗Traveling stuff, but do none of them (LOL)
 
 ### Projects 
 ✨ [samrantariq.me](https://sharp-bose-0d14c0.netlify.app/)
