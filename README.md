@@ -11,7 +11,7 @@
 - ⚡  Fun fact: I love to 🏋🏻workout and 🧗Traveling stuff, but do none of them (LOL)
 
 ### Projects 
-✨ [samrantariq.me](https://sharp-bose-0d14c0.netlify.app/)
+✨ [samrantariq.me](http://samrantariq.netlify.com/)
 
 <!-- ### Projects
 [<img align="left" alt="LinkedIn" width="252px" src="https://user-images.githubusercontent.com/50068566/119262828-1397da80-bbf6-11eb-87f3-b8efa9d9e99d.jpg"></img>](https://github.com/SamranTariq/Final_Year_Project)
