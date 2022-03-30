@@ -29,7 +29,8 @@
 ### Languages and Tools:
 
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Next" width="26px" src="https://user-images.githubusercontent.com/50068566/119507930-b6805e00-bd88-11eb-8f31-cd2f5dd89c45.png" />
+<img align="left" alt="Next Js" width="26px" src="https://user-images.githubusercontent.com/50068566/119507930-b6805e00-bd88-11eb-8f31-cd2f5dd89c45.png" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Express js" width="26px" src="https://user-images.githubusercontent.com/50068566/119507818-9a7cbc80-bd88-11eb-95b2-769ea89e927d.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
