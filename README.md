@@ -7,7 +7,7 @@
 - 🎨 New Skill : TypeScript
 - 🌱 Follwing Advanced TypeScript
 - 👯 I’m looking to collaborate with other developers 
-- 🥅 2021 Goals: Explore AWS.
+- 🥅 2022 Goals: Blockchain.
 - ⚡  Fun fact: I love to 🏋🏻workout and 🧗Traveling stuff, but do none of them (LOL)
 
 ### Projects 
