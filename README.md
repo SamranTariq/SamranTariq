@@ -4,7 +4,7 @@
 
 - 🔭 Working as a MERN Stack on freelancing sites
 - 🔭 Working as a Full Stack Developer in Swaam Tech Lahore
-- 🎨 New Skill : Vue Js
+- 🎨 New Skill : TypeScript
 - 🌱 Follwing Advanced TypeScript
 - 👯 I’m looking to collaborate with other developers 
 - 🥅 2021 Goals: Explore AWS.
