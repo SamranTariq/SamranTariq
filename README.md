@@ -2,16 +2,14 @@
 
 ## I'm a Full Stack Developer !
 
-- 🔭 Working as a MERN Stack on freelancing sites
-- 🔭 Working as a Full Stack Developer in Swaam Tech Lahore
+- 🔭 Working as a Senior Software Engineer in Swaam Tech Lahore
 - 🎨 New Skill : TypeScript
 - 🌱 Follwing Advanced TypeScript
 - 👯 I’m looking to collaborate with other developers 
-- 🥅 2022 Goals: Blockchain.
-- ⚡  Fun fact: I love to 🏋🏻workout and 🧗Traveling stuff, but do none of them (LOL)
+- 🥅 2024 Goals: Blockchain.
 
 ### Projects 
-✨ [samrantariq.me](http://samrantariq.netlify.com/)
+✨ [samrantariq.me](http://samrantariq.me/)
 
 <!-- ### Projects
 [<img align="left" alt="LinkedIn" width="252px" src="https://user-images.githubusercontent.com/50068566/119262828-1397da80-bbf6-11eb-87f3-b8efa9d9e99d.jpg"></img>](https://github.com/SamranTariq/Final_Year_Project)
