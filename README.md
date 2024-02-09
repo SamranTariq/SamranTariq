@@ -1,10 +1,10 @@
 ### Hi there I'm Samran Tariq 👋
 
-## I'm a Full Stack Developer !
+## I'm a Full Stack Developer!
 
-- 🔭 Working as a Senior Software Engineer in Swaam Tech Lahore
-- 🎨 New Skill : TypeScript
-- 🌱 Follwing Advanced TypeScript
+- 🔭 Working as a Senior Software Engineer
+- 🎨 New Skill: TypeScript
+- 🌱 Following Advanced TypeScript
 - 👯 I’m looking to collaborate with other developers 
 - 🥅 2024 Goals: Blockchain.
 
