@@ -6,7 +6,7 @@
 - 🎨 New Skill: TypeScript
 - 🌱 Following Advanced TypeScript
 - 👯 I’m looking to collaborate with other developers 
-- 🥅 2024 Goals: Blockchain.
+- 🥅 2025 Goals: Crypto/Blockchain.
 
 ### Projects 
 ✨ [samrantariq.me](http://samrantariq.me/)
