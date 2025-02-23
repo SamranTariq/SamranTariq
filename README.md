@@ -96,7 +96,30 @@ I am a **Senior React.js Engineer** with **4.5+ years of experience** leading te
   <a href="https://git-scm.com/">
     <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat" alt="Git" />
   </a>&nbsp;
+  
   <a href="https://code.visualstudio.com/">
     <img src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat" alt="VS Code" />
-  </a>
+  </a>&nbsp;
+
+ <!-- Cloud & Platforms -->
+  <a href="https://firebase.google.com/">
+    <img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat" alt="Firebase" />
+  </a>&nbsp;
+  
+  <a href="https://aws.amazon.com/">
+    <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat" alt="AWS" />
+  </a>&nbsp;
+  
+  <a href="https://www.netlify.com/">
+    <img src="https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white&style=flat" alt="Netlify" />
+  </a>&nbsp;
+  
+  <a href="https://www.shopify.com/">
+    <img src="https://img.shields.io/badge/-Shopify-7AB55C?logo=shopify&logoColor=white&style=flat" alt="Shopify" />
+  </a>&nbsp;
+  
+  <a href="https://www.zoho.com/">
+    <img src="https://img.shields.io/badge/-Zoho-DC1F26?logo=zoho&logoColor=white&style=flat" alt="Zoho" />
+  </a>&nbsp;
+
 </div>
