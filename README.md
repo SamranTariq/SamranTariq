@@ -13,22 +13,22 @@ I am a **Senior React.js Engineer** with **4.5+ years of experience** leading te
 
 ## 📫 Get in Touch
 <div>
-    <a href="https://www.linkedin.com/in/samran-tariq/">
+    <a href="https://www.linkedin.com/in/samran-tariq/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" />
     </a>&nbsp;
-    <a href="https://x.com/SamranTariq9">
+    <a href="https://x.com/SamranTariq9" target="_blank">
         <img src="https://img.shields.io/badge/X-Follow-black?logo=x&logoColor=white" />
     </a>&nbsp;
-    <a href="https://samrantariq.net">
+    <a href="https://samrantariq.net" target="_blank">
         <img src="https://img.shields.io/badge/Portfolio-Visit-green" />
     </a>&nbsp;
-    <a href="mailto:itssamrantariq@gmail.com">
+    <a href="mailto:itssamrantariq@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white" />
     </a>&nbsp;
-    <a href="https://codepen.io/samrantariq9">
+    <a href="https://codepen.io/samrantariq9" target="_blank">
         <img src="https://img.shields.io/badge/CodePen-Visit-black?logo=codepen&logoColor=white" />
     </a>&nbsp;
-    <a href="https://codesandbox.io/u/itssamrantariq">
+    <a href="https://codesandbox.io/u/itssamrantariq" target="_blank">
         <img src="https://img.shields.io/badge/CodeSandbox-Explore-blue?logo=codesandbox&logoColor=white" />
     </a>
 </div>
