@@ -1,6 +1,6 @@
 # Hi, I'm Samran Tariq 👋
 
-## Senior Full-Stack Engineer | React Specialist | Team Lead
+## Senior Full-Stack Engineer | MERN Specialist | Team Lead
 
 With **5+ years** of engineering leadership, I architect and deliver enterprise-grade applications that serve millions of users. I specialize in building high-performance, scalable systems using modern JavaScript ecosystems, with deep expertise in React.js, Next.js, and full-stack development.
 
